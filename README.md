@@ -52,7 +52,6 @@ classDiagram
 │   └── Main.java
 │── README.md
 │── .gitignore
-│── LICENSE
 ```
 
 ## 🛠 Tecnologias Utilizadas
